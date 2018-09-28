@@ -1,5 +1,0 @@
-1;Marko;20.09.2010.;uplata;400.0
-2;Darko;11.08.2010.;isplata;700.0
-3;Marko;14.03.2000.;uplata;200.0
-4;Darko;09.11.2017.;isplata;800.0
-5;Marko;13.10.2012.;uplata;600.0
